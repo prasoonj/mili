@@ -1,8 +1,8 @@
 import favicon from 'assets/images/favicon.png';
 import share from 'assets/images/share.png';
 
-const title = 'Create Ueno App';
-const description = 'The easiest and fastest way to create new projects.';
+const title = 'Milli - archives network.';
+const description = 'Milli - a network of archives.';
 
 export const helmet = {
   title,

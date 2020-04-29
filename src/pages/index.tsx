@@ -24,7 +24,7 @@ What we tend to remember are stories, which arise from the way we see and descri
     </Intro>
 
     <BlockText
-      heading="Why mili?"
+      heading="Why milli?"
       description={
         <>
           We hope to start forming parallel networks of catalogues and stories

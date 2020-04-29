@@ -6,7 +6,7 @@ import { Intro } from 'components/intro/Intro';
 
 import StarterLogo from 'assets/svg/starter-logo.svg';
 
-import MiliLogo from 'assets/svg/mili-logo.svg';
+import MiliLogo from 'assets/svg/milli-logo.svg';
 
 import s from './Header.scss';
 
