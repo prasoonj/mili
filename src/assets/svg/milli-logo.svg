@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="112.23279"
+     inkscape:cx="113.23279"
      inkscape:cy="-5.0581742"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,25 +56,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'UKIJ Diwani Yantu';-inkscape-font-specification:'UKIJ Diwani Yantu';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.594791"
-       y="16.413542"
+       x="9.128129"
+       y="19.588545"
        id="text25"><tspan
          sodipodi:role="line"
          id="tspan23"
-         x="17.594791"
-         y="16.413542"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'UKIJ Diwani Yantu';-inkscape-font-specification:'UKIJ Diwani Yantu';stroke-width:0.26458332">milli</tspan></text>
-    <path
-       sodipodi:type="spiral"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
-       id="path27"
-       sodipodi:cx="17.462498"
-       sodipodi:cy="15.487499"
-       sodipodi:expansion="1"
-       sodipodi:revolution="3"
-       sodipodi:radius="12.06468"
-       sodipodi:argument="-18.915394"
-       sodipodi:t0="0"
-       d="m 17.462498,15.487499 c 0.603593,-0.0398 0.351437,0.793998 0.06614,1.003212 -0.773124,0.566958 -1.77391,-0.109969 -2.072569,-0.870922 -0.53423,-1.361165 0.500787,-2.773181 1.807989,-3.141925 1.918371,-0.541147 3.789871,0.892498 4.211282,2.745055 0.561674,2.469168 -1.283949,4.813251 -3.682122,5.280639 -3.017857,0.58816 -5.839943,-1.675134 -6.349996,-4.619189 -0.617743,-3.565645 2.066142,-6.8685243 5.556256,-7.4193524 4.112978,-0.6491318 7.898288,2.4570354 8.488709,6.4933234 0.681664,4.660054 -2.847851,8.928841 -7.43039,9.558065 C 12.85083,25.23137 8.0978547,21.277791 7.4303797,16.148949 6.6815737,10.395163 11.05972,5.1574924 16.734903,4.4521695 23.035432,3.6691273 28.75817,8.4722084 29.501039,14.69376" />
+         x="9.128129"
+         y="19.588545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:'UKIJ Qolyazma Tez';-inkscape-font-specification:'UKIJ Qolyazma Tez';stroke-width:0.26458332"
+         transform="translate(0,-0.52916667)">milli</tspan></text>
   </g>
 </svg>

@@ -11,28 +11,31 @@ export default () => (
     <Helmet title="Home" />
 
     <Intro>
-      Archives enable diverse <Highlight>stories</Highlight>. This statement serves as a guiding principle for us through the workflow of historical records – sourcing for material, archival judgment and accessioning policies, understanding context and arrangement, preservation/conservation, and physical and digital access.
 
-In late 2016, when we started the endeavour to build a new archive, we wanted to deliberate on the purpose of an archive and what environments it could nourish in the future.
+<Highlight>InternationalArchivesWeek2020</Highlight>
 
-We at the Archives at NCBS are developing an interconnected science archive project linking storytelling to historic material and scientific research.
+<p><b>Milli Archives Discussions</b></p>
 
-Archival material is difficult to work with in India due to lack of access and common standards. We want people to see – and make – <Highlight>connections</Highlight> between disparate archival records flung across repositories.
+<p><Highlight>Form & content</Highlight>, <Highlight>preservation</Highlight> and <Highlight>access</Highlight>, <Highlight>privacy</Highlight>, <Highlight>pedagogy</Highlight>, <Highlight>standards</Highlight> & more!</p>
+<a href="https://www.ica.org/en/international-archives-week-8-14-june-2020">More about the International Archives Week Jun 8-14 2020</a>
 
-We are building a space that makes it easier for multiple interpretations and stories to emerge from the raw data. The premise is a little bit of a truism, but it serves as a beacon for this whole exercise: 
-What we tend to remember are stories, which arise from the way we see and describe primary data—<Highlight>oral histories</Highlight>,<Highlight> manuscripts</Highlight>, <Highlight>photographs</Highlight>, <Highlight>research notes</Highlight>. These annotations should be thought of as the card catalogs of primary historical information on the web.
+<p>Archivists/curators/historians/scientists/artists/writers coming together for a set of informal online events.</p>
+
+All sessions are free and open to the public. For more information, <a href="https://www.eventbrite.com/e/international-archives-week-2020-june-8-14-milli-sessions-tickets-107681129156">visit the event page</a>!
+<p></p>
+<p>The living document for this event is available <a href="https://hackmd.io/cI_IWlxKTdivCsaQiS9QEg">here</a>!</p>
     </Intro>
 
     <BlockText
-      heading="Why milli?"
+      heading="á milli"
       description={
         <>
-          We hope to start forming parallel networks of catalogues and stories
-           linked to each other across institutions, places, events, people and time. 
-           This will be an effort to build an interconnected digital archival of 
-           science with pilot material from various science archives in India and then, 
-           later, from other parts of the world. This will be made available through a 
-           digital platform to {' '} historians, journalists, scientific researchers and the general public.
+          Milli is a consortium of individuals and communities interested in the nurturing of archives. Archives enable diverse stories. This aim guides the work of the consortium, the purpose, form and content of an archive, and what environments it could nourish in the future. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. The digital platform for Milli will allow the public to find, describe and share archival material and stories. Milli borrows from the Icelandic 'á milli' for ‘between’ or ‘in the midst of’ since it speaks to the way we think of the archives being the in-between space between stories, objects and future stories. The milli.link domain, which shall be the home for Milli, gives us another way of thinking about a thousand tiny connections. Milli was incubated by Prasoon, <a href="https://janastu.org">Janastu</a> and the <a href="http://archives.ncbs.res.in">Archives at NCBS (Bangalore, India)</a>, a public centre for the history of contemporary biology in India.
+
+Email contact:
+
+<a href="mailto:hello@milli.link">hello@milli.link</a>
+
         </>
       }
     />
