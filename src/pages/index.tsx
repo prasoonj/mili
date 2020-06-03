@@ -12,18 +12,21 @@ export default () => (
 
     <Intro>
 
-<Highlight>InternationalArchivesWeek2020</Highlight>
+        <Highlight>InternationalArchivesWeek </Highlight>
+        <Highlight>8-14 June 2020</Highlight>
 
-<p><b>Milli Archives Discussions</b></p>
+        <p><b>Milli Archives Discussions</b></p>
 
-<p><Highlight>Form & content</Highlight>, <Highlight>preservation</Highlight> and <Highlight>access</Highlight>, <Highlight>privacy</Highlight>, <Highlight>pedagogy</Highlight>, <Highlight>standards</Highlight> & more!</p>
-<a href="https://www.ica.org/en/international-archives-week-8-14-june-2020">More about the International Archives Week Jun 8-14 2020</a>
+        <p><Highlight>Form & content</Highlight>, <Highlight>preservation</Highlight> and <Highlight>access</Highlight>, <Highlight>privacy</Highlight>, <Highlight>pedagogy</Highlight>, <Highlight>standards</Highlight> & more!</p>
 
-<p>Archivists/curators/historians/scientists/artists/writers coming together for a set of informal online events.</p>
 
-All sessions are free and open to the public. For more information, <a href="https://www.eventbrite.com/e/international-archives-week-2020-june-8-14-milli-sessions-tickets-107681129156">visit the event page</a>!
+        <p>Archivists/curators/historians/scientists/artists/writers coming together for a set of informal online events.</p>
+
+        All sessions are free and open to the public. For more information, <a href="https://www.eventbrite.com/e/international-archives-week-2020-june-8-14-milli-sessions-tickets-107681129156">visit the event page</a> (or drop us an email at <a href="mailto:hello@milli.link">hello@milli.link</a>!
 <p></p>
-<p>The living document for this event is available <a href="https://hackmd.io/cI_IWlxKTdivCsaQiS9QEg">here</a>!</p>
+        <p>The living document for this event is available <a href="https://hackmd.io/cI_IWlxKTdivCsaQiS9QEg">here</a>!</p>
+        <></>
+        <a href="https://www.ica.org/en/international-archives-week-8-14-june-2020">More about the International Archives Week Jun 8-14 2020</a>
     </Intro>
 
     <BlockText
