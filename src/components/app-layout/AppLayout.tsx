@@ -24,6 +24,7 @@ export default ({ children }: AppLayoutProps) => (
 
     <Header>
       <HeaderLink name="about" to="/about" />
+      <HeaderLink name="IAW2020" to="/iaw2020" />
     </Header>
 
     {children}
