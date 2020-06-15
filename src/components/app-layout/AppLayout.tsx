@@ -23,7 +23,7 @@ export default ({ children }: AppLayoutProps) => (
     <Helmet {...helmet} />
 
     <Header>
-      <HeaderLink name="about" to="/about" />
+      <HeaderLink name="About" to="/about" />
       <HeaderLink name="IAW2020" to="/iaw2020" />
     </Header>
 
