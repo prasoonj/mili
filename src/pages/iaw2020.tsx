@@ -10,14 +10,20 @@ export default () => (
     <Helmet title="IAW2020 Recordings" />
 
     <Intro>
+        <b>Milli Sessions - IAW 2020</b>
+        
         <p>
-          Milli Sessions - IAW 2020 
+          The Living document (<a href="https://hackmd.io/@tbdinesh/H1jAk1V28" target="_blank">https://hackmd.io/@tbdinesh/H1jAk1V28</a>) of the event
+          will help you get a gist of discussions, links to reading materials
+          mentioned during the session.
         </p>
+
         <p>
-          <a href="https://hackmd.io/@tbdinesh/H1jAk1V28" target="_blank">The Living document</a> of the online event, will help
-            you get a gist of discussions, links to reading materials mentioned during the session.
-            Links to Audio and Video from the discussions below. 
+        All recordings can be viewed here:
+        <a href="https://bit.ly/IAW2020-Milli-YouTube" target="_blank">https://bit.ly/IAW2020-Milli-YouTube</a>
         </p>
+        <p>Links to chat files from the sessions are below:</p>
+
         <br />
     <ul>
 			<li><a target="_blank" href="https://iaw2020.milli.test.openrun.net/1-iaw2020-starting_up_an_archive-day_1/">Day 1 - Present & Future // Starting up and Archive </a></li>
